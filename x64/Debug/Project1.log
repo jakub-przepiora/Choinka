@@ -1,0 +1,11 @@
+﻿  Main.cpp
+C:\Users\themreviil\Documents\!choinka\projekt\Project1\Project1\Main.cpp(48,22): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\themreviil\Documents\!choinka\projekt\Project1\Project1\Main.cpp(75,24): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\themreviil\Documents\!choinka\projekt\Project1\Project1\Main.cpp(83,24): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\themreviil\Documents\!choinka\projekt\Project1\Project1\Main.cpp(92,27): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\themreviil\Documents\!choinka\projekt\Project1\Project1\Main.cpp(99,27): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\themreviil\Documents\!choinka\projekt\Project1\Project1\Main.cpp(168,18): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\themreviil\Documents\!choinka\projekt\Project1\Project1\Main.cpp(169,18): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\themreviil\Documents\!choinka\projekt\Project1\Project1\Main.cpp(255,33): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\themreviil\Documents\!choinka\projekt\Project1\Project1\Main.cpp(256,33): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+  Project1.vcxproj -> C:\Users\themreviil\Documents\!choinka\projekt\Project1\x64\Debug\Project1.exe
